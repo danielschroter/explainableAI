@@ -10,6 +10,8 @@ The following files in the repository contain the final code of our work:
 In order to get the code running, download the original data from the KPA Shared task 2021 and store all files (dev,train,test) in one data folder.
 
 
+The final report and presentation are located inside the final_docs_submission directory: 
+
 - Final Report:  key-point-analysis-and-explanations-for-quantitative-text-analysis.pdf
 - Final Presentation: Final_presentation.pptx
 
